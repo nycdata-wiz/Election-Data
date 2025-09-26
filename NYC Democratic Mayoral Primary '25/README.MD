@@ -102,4 +102,4 @@ for (x in 1:length(mapping$CandidacyID)){
 }
 
 ````
-The final dataframe containing all of the vote data for ranked choice voting submissions can be found here across two files: [NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx](NYC Democratic Mayoral Primary '25/data/NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx) and [NYC_2025_RCV_allvotes_sequences_2_of_2.xlsx][NYC_2025_RCV_allvotes_sequences_2_of_2.xlsx](NYC Democratic Mayoral Primary '25/data/NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx)
+The final dataframe containing all of the vote data for ranked choice voting submissions can be found here across two files: [NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx](https://github.com/nycdata-wiz/Election-Data/blob/87ff5885da2d7a554e5e41ced6e37d475c8da022/NYC%20Democratic%20Mayoral%20Primary%20'25/data/NYC_2025_RCV_allvotes_sequences_1_of_2.xlsx) and [NYC_2025_RCV_allvotes_sequences_2_of_2.xlsx](https://github.com/nycdata-wiz/Election-Data/blob/87ff5885da2d7a554e5e41ced6e37d475c8da022/NYC%20Democratic%20Mayoral%20Primary%20'25/data/NYC_2025_RCV_allvotes_sequences_2_of_2.xlsx)
